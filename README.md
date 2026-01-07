@@ -638,9 +638,9 @@ This project demonstrates expertise in:
 ## 👤 Author
 
 **Akshay Jariyal**  
-Data Science Learner | SQL & Database Analyst (In Training)  
+Data Science | SQL & Database Analyst 
 📧 **ajaries1997@gmail.com**  
-📍 Shimla, Himachal Pradesh, India
+**www.linkedin.com/in/akshay-jariyal-37aa39174**
 
 ---
 
